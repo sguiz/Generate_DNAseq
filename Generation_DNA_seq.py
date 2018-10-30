@@ -123,7 +123,7 @@ def design_DNAsequence(input_file, output_directory, dico_file, number_seq):
                 DNA_name=input_seq['seq'+str(seq)][X]
                 OR=input_seq['or'+str(seq)][X]
                 
-                if OR=='-1':
+                if OR=='-1' or OR==-1:
                     DNA=dico[DNA_name].translate(tab)[::-1]
                     OR=-1
                 else:
