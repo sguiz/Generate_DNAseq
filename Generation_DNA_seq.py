@@ -146,4 +146,4 @@ Inputs:
 From the sequence list (composed of the DNA seq, name and orientation)
 Generation of a gb file"""
 
-#design_DNAsequence('Example.csv', '/Users/sarahguiziou/Desktop/generation_seq/results', 'List_seq.csv', 12)
+#design_DNAsequence('Example.csv', '/Users/sarahguiziou/Desktop/generation_seq/results', 'List_seq.csv', 2)
