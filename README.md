@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* **Jerome Bonnet** for adivces
+Jerome Bonnet for adivces
