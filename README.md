@@ -30,3 +30,15 @@ You have to change the argument of the function design_DNAsequence, 1: CSV file 
 
 As example: 
 `design_DNAsequence('Example.csv', 'Your_directory', 'List_seq.csv', 2)`
+
+## Author
+
+**Sarah Guiziou**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+* **Jerome Bonnet** for adivces
